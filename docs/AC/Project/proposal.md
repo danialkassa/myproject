@@ -260,3 +260,5 @@ Our solutions contribute to the development of smart and accessible cities, fost
 
 ### Conclusion
 The proposed WiFi-controlled solutions for lights, doors, and fans aim to address the specific needs of disabled individuals, promoting independence, accessibility, and safety. By leveraging WiFi technology, incorporating innovative features, and aligning with the SDGs, we can create products that make a positive impact on the lives of disabled individuals and contribute to a more inclusive and sustainable future.
+
+**Developed and Done By Daniel Kassa**
