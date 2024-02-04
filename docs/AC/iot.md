@@ -736,3 +736,6 @@ void fwd_to_Thingspeak()
 <p><a href="https://www.nexmaker.com/doc/10IOT/NodeMCUESP8266_ALiYun.html">Nexmaker</a>
  <br></p>
 <p><a href="https://www.javatpoint.com/iot-internet-of-things">JavaTpoints</a></p>
+
+
+**Done By Daniel Kassa**
