@@ -16,7 +16,7 @@ Since the advent of commercial 3D printers, the industry has undergone significa
 1. **Construction:** Large-scale 3D printing is being explored for construction purposes. 
 1. **Automotive Components:** The automotive industry is using 3D printing for rapid prototyping and manufacturing of complex components, leading to faster development cycles.
 1. **Fashion and Wearables:** Designers are utilizing 3D printing to create avant-garde fashion pieces and personalized accessories. The technology allows for intricate and unique designs.
-1. **Educational Models:** 3D printing is being employed in education to create tangible models for better understanding complex concepts in subjects such as biology, geography, and architecture.
+1. **Educational Models:** 3D printing is being employed in education to create tangible models for a better understanding of complex concepts in subjects such as biology, geography, and architecture.
 1. **Tooling and Manufacturing Aids:** Industries use 3D printing to produce custom tools, jigs, and fixtures that enhance manufacturing processes and efficiency.
 1. **Dental Applications:** 3D printing is widely used in dentistry for producing dental crowns, bridges, and other customized dental prosthetics.
 1. **Environmental Applications:** Some companies are exploring the use of 3D printing for eco-friendly construction materials and sustainable design solutions.
@@ -25,7 +25,7 @@ Since the advent of commercial 3D printers, the industry has undergone significa
 
 1. **Continuous Liquid Interface Production (CLIP):** CLIP is a resin-based 3D printing technology that utilizes a liquid resin and controlled exposure to light to create objects continuously. It allows for faster print times and smoother surface finishes.
 1. **Metal 3D Printing:** Metal additive manufacturing has seen significant advancements, with technologies like Selective Laser Melting (SLM) and Electron Beam Melting (EBM) becoming more refined. This allows for the production of complex metal parts used in aerospace, healthcare, and other industries.
-1. **Multi-material 3D Printing:** Some printers now have the capability to use multiple materials during a single print job. This enables the creation of objects with varied physical properties or colours in one print.
+1. **Multi-material 3D Printing:** Some printers now can use multiple materials during a single print job. This enables the creation of objects with varied physical properties or colours in one print.
 1. **Bioprinting:** Progress in bioprinting involves the use of living cells and biological materials to create tissues and organs. This technology holds great potential for applications in medicine and regenerative therapies.
 1. **Carbon Fibre 3D Printing:** Carbon fibre-reinforced filaments are being used in 3D printing to produce lightweight, strong, and durable parts. This is particularly valuable in industries like aerospace and automotive.
 1. **AI and Generative Design:** Artificial intelligence is being integrated into 3D printing processes, allowing for generative design. This involves AI algorithms creating optimal designs based on specified criteria, leading to more efficient and lightweight structures.
@@ -400,3 +400,4 @@ M05                    	; Stop spindle
 It's important to note that specific G-codes and their meanings can vary between different CNC machines and controllers. Users should refer to their machine's documentation for accurate information.
 
 
+**Done by Sahle Hagos and Daniel Kassa**
