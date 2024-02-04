@@ -780,3 +780,6 @@ Here is a Sample
  - [Nexmaker](https://www.nexmaker.com/)
  - [Docsify](https://docsify.js.org/#/?id=docsify)
  - [Template](https://bestjquery.com/tutorial/our-team/demo16/)
+
+
+**Developed by Daniel Kassa**
